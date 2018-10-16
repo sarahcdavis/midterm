@@ -3,7 +3,7 @@ h1, h2, h3, h4, h5, p, header, li, ul {
 }
 header {
 	background-size: cover;
-	background: url(file:///Users/sarah/Desktop/Web%20Fundamentals/Midterm/header.gif);
+	background: url(header.gif);
 	text-align: center;
 }
 
